@@ -3,7 +3,7 @@ Apaixonado por tecnologia 🥰💻<br>
 Tecnólogo em Análise e Desenvolvimento de Sistemas 🤓💻
 
 - 🔭 Trabalhando como Freelancer
-- 🌱 Estudando JavaScript e React
+- 🌱 Estudando Angular e C#
 
 ### Tecnologias que utilizo:
 <div style="display: inline_block">
